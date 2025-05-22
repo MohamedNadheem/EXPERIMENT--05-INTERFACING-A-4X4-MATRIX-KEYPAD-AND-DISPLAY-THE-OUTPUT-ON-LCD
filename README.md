@@ -1,6 +1,6 @@
 # EXPERIMENT 05 INTERFACING A 4X4 MATRIX KEYPAD AND DISPLAY THE OUTPUT ON LCD
-### NAME : Tarunika D
-### REG NO : 212223040227
+### NAME : MOHAMED NADHEEM N
+### REG NO : 212223240091
 ### DATE : 07.05.2025
 ## Aim: 
 To Interface a 4X4 matrix keypad and show the output on 16X2 LCD display to ARM controller , and simulate it in Proteus
